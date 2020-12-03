@@ -1,8 +1,9 @@
 <?php
 require_once("function.php");
 
-$todo_list = read_todo_list(false);
-
+if (count($argv)) _! = ???) {
+  
+}
 
 for ($i = 0; $i < count($todo_list); $i++) {
   $todo = $todo_list[$i];
